@@ -1,6 +1,4 @@
 # Movie-recommender-system
-
-# Movie-Recommender-App
 ### Datasets 
 
 1. [IMDB 5000 Movie Dataset](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset)
