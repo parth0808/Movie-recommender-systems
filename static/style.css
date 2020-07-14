@@ -24,7 +24,7 @@
 }
 
 #content {
-	background-image: url("../static/image.jpg");
+	background-image: url("../static/image.png");
 	background-color: #181818;
 	font-family: 'Noto Sans JP', sans-serif;
 }
@@ -35,11 +35,12 @@
 
 .footer {
 	color: #e4e0e0;
-	text-align:right;
+
+	text-align: right;
 	position: fixed;
- 	bottom: 20px;
- 	right: 20px;
- 	width: 100%;
+	bottom: 20px;
+	right: 20px;
+	width: 100%;
 }
 
 h1 {
